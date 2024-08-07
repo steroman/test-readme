@@ -5,5 +5,7 @@ category: 66b329431294d6005f578240
 slug: sub-folders
 ---
 
-This article will tell us the truth. Let's see where it's placed.c
+This article will tell us the truth. Let's see where it's placed.
+
+Once it's published, what happens if I push this new changes?
 
