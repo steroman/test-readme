@@ -1,4 +1,9 @@
-# Create a contract
+---
+title: Create a contract
+excerpt: Learn how to create a contract
+category: 66b236b37c26be004bd1d71d
+slug: create-contract
+---
 
 Creating a contract is the first step to hiring an independent contractor through Deel. There are many contract types available:
 
